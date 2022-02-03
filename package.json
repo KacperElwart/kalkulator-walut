@@ -1,0 +1,16 @@
+{
+  "name": "kalkulator-walut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.4.7",
+    "node": "^17.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Kacper Elwart",
+  "license": "ISC"
+}
